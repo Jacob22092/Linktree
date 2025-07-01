@@ -1,4 +1,4 @@
-# 🪴 Linktree Clone – Next.js + Tailwind + localStorage
+# 🌳 Linktree Clone
 
 A modern, editable Linktree-style page – no backend required!  
 All data is stored in the browser (localStorage) and editing is simple and intuitive.
