@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-indigo-950 bg-gradient-to-br from-indigo-900 via-purple-900 to-gray-900 dark:text-white text-gray-900;
+}
